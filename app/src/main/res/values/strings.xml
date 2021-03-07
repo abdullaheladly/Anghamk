@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anghamk</string>
+    <string name="notification_channel_name">Music Channel</string>
+    <string name="notification_channel_description">Show The Currently Playing Music</string>
+</resources>
